@@ -1,0 +1,5 @@
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

@@ -1,0 +1,11 @@
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\bin\Debug\Colorful.Console.dll
+E:\Year 2\CTEC2902\CTEC2902-Labs\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\bin\Debug\Colorful.Console.xml
+C:\Users\p04272494\Source\Repos\Practice-CTEC\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\p04272494\Source\Repos\Practice-CTEC\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\p04272494\Source\Repos\Practice-CTEC\Week18-BuildingConfiguringAndDeploying\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

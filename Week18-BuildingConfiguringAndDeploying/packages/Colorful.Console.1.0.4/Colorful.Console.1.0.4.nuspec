@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Colorful.Console</id>
+    <version>1.0.4</version>
+    <title>Colorful.Console</title>
+    <authors>Tom Akita, Muhammad Rehan Saeed</authors>
+    <owners>Tom Akita, Muhammad Rehan Saeed</owners>
+    <licenseUrl>https://github.com/tomakita/Colorful.Console/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>http://colorfulconsole.com/</projectUrl>
+    <iconUrl>http://colorfulconsole.com/images/colorful_icon_ngsize.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Style your C# console output!</description>
+    <releaseNotes>Switched to DNX</releaseNotes>
+    <copyright>@ Tom Akita. All rights Reserved.</copyright>
+    <tags>Style Styled Output Colourful Colorful Console Command Line ASCII Art FIGlet</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETFramework4.5.1" />
+      <group targetFramework=".NETFramework4.5.2" />
+      <group targetFramework=".NETFramework4.6" />
+      <group targetFramework=".NETFramework4.6.1" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="mscorlib" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="mscorlib" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework4.5.1" />
+      <frameworkAssembly assemblyName="mscorlib" targetFramework=".NETFramework4.5.1" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.5.1" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.5.1" />
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.5.1" />
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="mscorlib" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework4.6" />
+      <frameworkAssembly assemblyName="mscorlib" targetFramework=".NETFramework4.6" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.6" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.6" />
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.6" />
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="mscorlib" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.6.1" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
