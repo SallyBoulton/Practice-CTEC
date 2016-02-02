@@ -1,0 +1,7 @@
+C:\Users\p04272494\Source\Repos\CTEC2902-Labs\Week17-ErrorHandling\ErrorProneWebsite.Tests\bin\Debug\ErrorProneWebsite.Tests.dll
+C:\Users\p04272494\Source\Repos\CTEC2902-Labs\Week17-ErrorHandling\ErrorProneWebsite.Tests\bin\Debug\ErrorProneWebsite.Tests.pdb
+C:\Users\p04272494\Source\Repos\CTEC2902-Labs\Week17-ErrorHandling\ErrorProneWebsite.Tests\bin\Debug\ErrorProneWebsite.dll
+C:\Users\p04272494\Source\Repos\CTEC2902-Labs\Week17-ErrorHandling\ErrorProneWebsite.Tests\bin\Debug\ErrorProneWebsite.pdb
+C:\Users\p04272494\Source\Repos\CTEC2902-Labs\Week17-ErrorHandling\ErrorProneWebsite.Tests\obj\Debug\ErrorProneWebsite.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p04272494\Source\Repos\CTEC2902-Labs\Week17-ErrorHandling\ErrorProneWebsite.Tests\obj\Debug\ErrorProneWebsite.Tests.dll
+C:\Users\p04272494\Source\Repos\CTEC2902-Labs\Week17-ErrorHandling\ErrorProneWebsite.Tests\obj\Debug\ErrorProneWebsite.Tests.pdb
